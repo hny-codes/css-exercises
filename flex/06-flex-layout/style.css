@@ -58,3 +58,10 @@ a {
   align-items: center;
   margin-bottom: 5rem;
 }
+
+.footer {
+  background-color: #eeeeee;
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+}
