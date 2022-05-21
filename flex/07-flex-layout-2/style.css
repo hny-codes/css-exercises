@@ -43,6 +43,10 @@ body {
   color: #fff;
 }
 
+.sidebar li {
+  margin: 10px 0px;
+}
+
 .card {
   border: 1px solid #eee;
   box-shadow: 2px 4px 16px rgba(0, 0, 0, 0.06);
